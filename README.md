@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Gilad
 
-- 18 and Writing code in C# since high school
+- I'm 18 and Writing code in C# since high school
 - Currently focused on building Web APIs with ASP.NET Core  
 - Developing a portfolio while learning things deeply and practically  
 
